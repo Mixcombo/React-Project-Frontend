@@ -1,0 +1,24 @@
+.app-bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .bg-item img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+  }
+  
+  .bg-item h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:black;
+  }

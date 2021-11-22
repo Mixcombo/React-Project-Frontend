@@ -1,0 +1,42 @@
+.container-chart{
+    height: 100vh;
+    width: 85vw;
+    overflow-y: auto;
+    background-color: transparent ;
+  }
+  .table {
+    height: 20vh;
+    width: 70vw;
+    padding: 20px;
+  }
+  .container-chart1{
+    height: 100vh;
+    width: 85vw;
+    overflow-y: auto;
+    background-color: transparent ;
+  }
+  .table1 {
+    height: 20vh;
+    width: 74vw;
+    padding: 10px;
+    padding-top: 10px;
+  }
+
+.idtext{
+    text-align: center;
+}
+.fontsize{
+    font-size: 25px;
+    font-weight: bold;
+}
+.bar{
+    font-size: 12px;
+    font-weight: 500;
+}
+.container-sample{
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* height: 14.5vh; */
+  width: 13.5vw;
+  align-items: center;
+}
